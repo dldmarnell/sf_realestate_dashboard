@@ -1,4 +1,4 @@
-# sf_realestate_dashboard
+# San Francisco Real Estate Interactive Dashboard
 
 A dashboard developed to provide charts, maps, and interactive visualizations that help customers explore the data and determine if they want to invest in rental properties in San Francisco.  First data manipulations, calculations and visualizations are formulated in the rental_analysis notebook, then it is copied over to the dashboard notebook and used with Panel to create the final layout and serve on the Internet.
 
@@ -24,12 +24,14 @@ JupyterLab - [Install JupyterLab](https://jupyterlab.readthedocs.io/en/stable/ge
 
 ## Examples
 
-Using the servable function and the command line to lauch the dashboard as a Panel application.
-
+Brief overview of the features of the dashboard.
+(insert gif)
 ![dashboard_serve_function](Data/dashboard_serve_function.png)
 
+Using the servable function and the command line to lauch the dashboard as a Panel application.
 ![dashboard_serve_terminal](Data/dashboard_serve_terminal.png)
 
+Image of the interactive dashboard viewed in a web broswer.
 ![dashboard_browser](Data/dashboard_browser.png)
 
 ---
