@@ -24,14 +24,14 @@ JupyterLab - [Install JupyterLab](https://jupyterlab.readthedocs.io/en/stable/ge
 
 ## Examples
 
-Brief overview of the features of the dashboard.
+- Brief overview of the features of the dashboard.
 (insert gif)
 ![dashboard_serve_function](Data/dashboard_serve_function.png)
 
-Using the servable function and the command line to lauch the dashboard as a Panel application.
+- Using the servable function and the command line to lauch the dashboard as a Panel application.
 ![dashboard_serve_terminal](Data/dashboard_serve_terminal.png)
 
-Image of the interactive dashboard viewed in a web broswer.
+- Image of the interactive dashboard viewed in a web broswer.
 ![dashboard_browser](Data/dashboard_browser.png)
 
 ---
